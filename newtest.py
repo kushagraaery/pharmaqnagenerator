@@ -232,7 +232,7 @@ if not st.session_state.report_data.empty:
     # st.write("📧 Email Report:")
 
     # Collect email details from user input
-    receiver_email = "rajpua1@gene.com"
+    receiver_email = "goyals14@gene.com"
     email_subject = "Consolidated Pharma Society Report"
 
     # Set Gmail SMTP server settings
