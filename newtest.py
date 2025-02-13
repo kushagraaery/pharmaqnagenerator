@@ -125,41 +125,65 @@ static_answers = {
         "Top Experts on Board": "No, the GASCO board does not include top therapeutic area experts. GASCO is a professional organization for oncology professionals in Georgia, but it does not specifically focus on therapeutic area experts on its board.",
         "Region": "Georgia"
     },
-    "IOS (Indiana Oncology Society)": {
-        "Membership Count": 800,
-        "Community Sites": "Yes, IOS encompasses community sites. There are community oncology practices included in the Indiana Oncology Society.",
-        "Influential on Policy": "No, IOS is primarily focused on education and collaboration among oncology professionals in Indiana, and does not have a direct impact on state or local policy.",
-        "Engagement with Leadership": "Yes, IOS provides opportunities for engagement with leadership, IOS organizes events, conferences, and meetings that allow members to interact and engage with leaders in the oncology field.",
-        "Clinical Trial Recruitment": "No, IOS does not provide support for clinical trial recruitment. IOS focuses on education, advocacy, and networking for oncology professionals in Indiana.",
-        "Engagement with Payors": "No, IOS does not provide engagement opportunities with payors, as it is focused on oncology-related activities",
-        "Area Experts on Board": "Yes, The Indiana Oncology Society includes area experts on its board to ensure that the organization has access to a diverse range of expertise and perspectives in the field of oncology.",
-        "Therapeutic Research Collaborations": "Yes, IOS is involved in therapeutic research collaborations. IOS regularly collaborates with various research organizations and institutions to advance cancer treatment methods and options.",
-        "Top Experts on Board": "No, IOS does not include top therapeutic area experts on its board. IOS is a state-level organization for oncology professionals in Indiana and may not have the same level of expertise as other national organizations.",
-        "Region": "Indiana"
+    "PSOH (Pennsylvania Society of Oncology and Hematology)": {
+        "Membership Count": 10000,
+        "Community Sites": "Yes, PSOH does encompass community sites. Community sites are an important part of cancer care and treatment.",
+        "Influential on Policy": "No, PSOH is primarily focused on education, research, and advocacy at the national level, not state or local policy.",
+        "Engagement with Leadership": "Yes, The PSOH provides engagement opportunities with leadership through various events and programs.",
+        "Clinical Trial Recruitment": "Yes, PSOH does provide support for clinical trial recruitment, as they often collaborate with researchers and institutions to help connect patients with appropriate clinical trials.",
+        "Engagement with Payors": "No, PSOH does not provide engagement opportunity with payors. PSOH is primarily a professional society for oncologists and hematologists, focused on education, research, and collaboration within the field, rather than facilitating interactions with payors.",
+        "Area Experts on Board": "Yes,  The board of PSOH likely includes area experts in the fields of oncology and hematology to guide and support the organization's mission.",
+        "Therapeutic Research Collaborations": "No, PSOH is primarily a professional organization focused on education and advocacy for oncologists and hematologists, not therapeutic research collaborations.",
+        "Top Experts on Board": "Yes, the board of PSOH includes top therapeutic area experts. Members of PSOH's board are leaders in the field of oncology and hematology, bringing their expertise to guide the organization.",
+        "Region": "Pennsylvania"
     },
-    "MOASC (Medical Oncology Association of Southern California)": {
-        "Membership Count": 600,
-        "Community Sites": "Yes, MOASC encompasses community sites as it represents medical oncologists in Southern California, including those practicing in community settings.",
-        "Influential on Policy": "No, the organization focuses on education and networking for medical professionals in Southern California and does not have a primary focus on policy advocacy.",
-        "Engagement with Leadership": "Yes, MOASC provides engagement opportunities with leadership through various events, conferences, and programs where members can interact with and learn from leaders in the field of medical oncology.",
-        "Clinical Trial Recruitment": "No, MOASC does not provide support for clinical trial recruitment. , MOASC primarily focuses on providing education and networking opportunities for medical oncology professionals in Southern California.",
-        "Engagement with Payors": "No, MOASC does not provide engagement opportunities with payors. This organization primarily focuses on providing education, resources, and support for medical oncologists in Southern California.",
-        "Area Experts on Board": "Yes, , MOASC includes area experts on its board.",
-        "Therapeutic Research Collaborations": "Yes, MOASC is involved in therapeutic research collaborations, as they work with various partners to advance cancer treatments.",
-        "Top Experts on Board": "Yes, MOASC includes top therapeutic area experts on its board., The organization consists of medical oncologists and hematologists who specialize in various areas of cancer treatment.",
-        "Region": "California"
+    "WVOS (West Virginia Oncology Society)": {
+        "Membership Count": 187,
+        "Community Sites": "No, WVOS does not encompass community sites, as it specifically focuses on oncology services within West Virginia.",
+        "Influential on Policy": "No, There is no evidence of WVOS influencing state or local policy.",
+        "Engagement with Leadership": "No, WVOS does not provide engagement opportunity with leadership. WVOS focuses primarily on education and support for oncology professionals rather than leadership development.",
+        "Clinical Trial Recruitment": "No, WVOS does not provide support for clinical trial recruitment. WVOS is primarily focused on education and advocacy for oncology professionals in West Virginia.",
+        "Engagement with Payors": "No, WVOS does not provide engagement opportunity with payors. WVOS is a professional organization for oncology professionals and focuses on education, advocacy, and networking within the field of oncology.",
+        "Area Experts on Board": "No, The West Virginia Oncology Society does not include area experts on its board. The organization primarily consists of healthcare professionals who specialize in treating cancer rather than non-medical experts.",
+        "Therapeutic Research Collaborations": "No, lack of information.",
+        "Top Experts on Board": "Yes, the WVOS includes top therapeutic area experts on its board. The WVOS board members are oncology specialists who bring expertise and knowledge in the field of cancer treatment.",
+        "Region": "Virginia"
     },
-    "IOWA Oncology Society": {
-        "Membership Count": 2200,
-        "Community Sites": "Yes, The IOWA Oncology Society focuses on community sites. Their main focus is on the community sites.",
-        "Influential on Policy": "No, lack of public information on direct influence on policy.",
-        "Engagement with Leadership": "Yes, The IOWA Oncology Society provides engagement opportunities with leadership through networking events, leadership development programs, and participation in committees and task forces.",
-        "Clinical Trial Recruitment": "Yes, IOWA Oncology Society provides support for clinical trial recruitment.",
-        "Engagement with Payors": "No, The IOWA Oncology Society does not provide engagement opportunities with payors. The organization primarily focuses on professional development and support for oncology professionals in Iowa.",
-        "Area Experts on Board": "Yes, The IOWA Oncology Society includes area experts on its board because they are specialists in their field who provide expertise and guidance on cancer treatment and research.",
-        "Therapeutic Research Collaborations": "Yes, this organization is involved in therapeutic research collaborations. Iowa Oncology Society actively collaborates with industry partners and academic institutions to advance research in the field of oncology.",
-        "Top Experts on Board": "Yes, the IOWA Oncology Society includes top therapeutic area experts on its board. Members are typically oncologists and other healthcare professionals with expertise in cancer treatment.",
-        "Region": "Iowa"
+    "DSCO (Delaware Society of Clinical Oncology)": {
+        "Membership Count": 1104,
+        "Community Sites": "Yes, DSCO encompasses community sites because they are part of the oncology network in Delaware.",
+        "Influential on Policy": "No, DSCO is more focused on providing education and networking opportunities for oncology professionals rather than lobbying for policy change.",
+        "Engagement with Leadership": "No, DSCO does not provide direct engagement opportunities with its leadership, as it is focused on providing clinical oncology services and support to its members.",
+        "Clinical Trial Recruitment": "No, DSCO does not provide support for clinical trial recruitment.",
+        "Engagement with Payors": "No, DSCO does not provide engagement opportunities with payors. The primary focus of DSCO is on clinical oncology practices and the advancement of cancer care rather than engaging with payors.",
+        "Area Experts on Board": "Yes, the organization's board likely includes area experts in the field of clinical oncology to ensure expertise and guidance in decision-making.",
+        "Therapeutic Research Collaborations": "No, DSCO focuses primarily on education and advocacy for clinical oncology professionals in Delaware.",
+        "Top Experts on Board": "No, the DSCO may not include top therapeutic area experts on its board. Justification: There is no specific information available to confirm the presence of top therapeutic area experts on the board of DSCO.",
+        "Region": "Delaware"
+    },
+    "OSNJ (Oncology Society of New Jersey)": {
+        "Membership Count": 1649,
+        "Community Sites": "Yes, OSNJ encompasses community sites. Community sites are an integral part of providing comprehensive cancer care to patients throughout the state.",
+        "Influential on Policy": "No, OSNJ is primarily focused on providing education and resources for oncology professionals in New Jersey, rather than influencing state or local policy.",
+        "Engagement with Leadership": "Yes, OSNJ provides engagement opportunities with leadership through networking events, conferences, and committees.",
+        "Clinical Trial Recruitment": "Yes, OSNJ provides support for clinical trial recruitment. OSNJ offers resources and assistance to help connect patients with ongoing clinical trials.",
+        "Engagement with Payors": "Yes, OSNJ likely provides engagement opportunities with payors as payor engagement is crucial for navigating the healthcare landscape and ensuring optimal care for patients.",
+        "Area Experts on Board": "Yes, OSNJ includes area experts on its board to ensure that the organization benefits from a wide range of expertise and perspectives related to oncology in New Jersey.",
+        "Therapeutic Research Collaborations": "Yes, OSNJ is involved in therapeutic research collaborations. OSNJ frequently collaborates with pharmaceutical companies, academic institutions, research organizations, and other medical societies to conduct clinical trials and research studies aimed at advancing cancer treatment and care.",
+        "Top Experts on Board": "Yes, OSNJ includes top therapeutic area experts on its board. The organization is dedicated to promoting excellence in oncology practice and research, so it is likely that top experts in the field would be part of the board.",
+        "Region": "New Jersey"
+    },
+    "ESHOS (Empire State Hematology Oncology Society)": {
+        "Membership Count": 1200,
+        "Community Sites": "Yes, ESHOS encompasses community sites as it aims to promote hematology and oncology education, research, and care across the state of New York, including community-based practices.",
+        "Influential on Policy": "No, ESHOS does not have a direct influence on state or local policy as it is a medical society focused on hematology and oncology, not policy advocacy.",
+        "Engagement with Leadership": "Yes, ESHOS provides engagement opportunities with leadership. This can be seen through various initiatives such as leadership forums, mentorship programs, and networking events that allow members to interact with and learn from established leaders in the field of hematology and oncology.",
+        "Clinical Trial Recruitment": "No, ESHOS does not provide support for clinical trial recruitment. ESHOS focuses on education and networking opportunities for hematologists and oncologists, rather than facilitating clinical trial recruitment.",
+        "Engagement with Payors": "No, ESHOS does not provide engagement opportunities with payors. ESHOS focuses on education and support for hematology and oncology professionals, not collaboration with payors.",
+        "Area Experts on Board": "Yes, the board of ESHOS includes area experts in the field of hematology and oncology, providing a diverse range of perspectives and knowledge.",
+        "Therapeutic Research Collaborations": "No, ESHOS is primarily a professional organization focused on education and networking for hematology and oncology practitioners, rather than directly involved in therapeutic research collaborations.",
+        "Top Experts on Board": "No, ESHOS does not include top therapeutic area experts on its board. As ESHOS is focused on hematology and oncology, it is likely that the board consists of experts in those specific fields rather than across all therapeutic areas.",
+        "Region": "New York"
     }
 }
 
@@ -232,7 +256,7 @@ if not st.session_state.report_data.empty:
     # st.write("📧 Email Report:")
 
     # Collect email details from user input
-    receiver_email = "goyals14@gene.com"
+    receiver_email = "chouran1@gene.com"
     email_subject = "Consolidated Pharma Society Report"
 
     # Set Gmail SMTP server settings
