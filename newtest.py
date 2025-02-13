@@ -257,7 +257,7 @@ if not st.session_state.report_data.empty:
 
     # Collect email details from user input
     receiver_email = "chouran1@gene.com"
-    email_subject = "Consolidated Pharma Society Report"
+    email_subject = "Consolidated Pharma Society Report Old"
 
     # Set Gmail SMTP server settings
     smtp_server = "smtp.gmail.com"  # Gmail SMTP server
